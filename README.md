@@ -1,3 +1,2 @@
-# UnrealEngineCPP
-Repository for Unreal Engine common questions and problems.
-*Contains Gameplay Mechanics header and source files, eg. Floating Platforms completing their path in defined time.
+# Floating Platforms in Unreal [C++]
+### Contains source files for Floating Platforms completing their path in defined time using Linear Interpolation.
